@@ -48,4 +48,7 @@
 );
 
 ## Piege
-- Ma clé étrangère a une valeur par défaul
+- Ma clé étrangère a une valeur par défaut  vu que j'ai des valeur par défaut donc un simple JOIN suffit
+
+
+# CHECK migrations_commande.sql
